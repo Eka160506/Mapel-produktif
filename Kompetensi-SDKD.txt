@@ -1,9 +1,0 @@
-a. Komunikasi Daring Sinkron
-  - line
-b. Komunikasi Daring Asinkron
-  - Email
-c. GitHub
-  - Membuat akun
-  - Membuat repository (file baru dan commit)
-d. Git
-  - belum
